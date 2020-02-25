@@ -5,7 +5,7 @@ class App extends React.Component {
     return (
       <div className='App'>
         <header className='App-header'>
-          <p>郵便番号をいれてください</p>
+          <p>郵便番号を入力</p>
           <p>
             <input
               type='text'
@@ -16,7 +16,6 @@ class App extends React.Component {
 
           <a onClick={this.handleClick}>住所を表示</a>
 
-          {/* ***** p に style を指定 ***** */}
           <p style={this.state.address_style}>{this.state.tenki}</p>
         </header>
       </div>
