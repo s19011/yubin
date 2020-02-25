@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/s19011.github.io/yubin/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/s19011.github.io/yubin/static/js/main.20bedc20.chunk.js",
+    "main.js.map": "/s19011.github.io/yubin/static/js/main.20bedc20.chunk.js.map",
+    "runtime-main.js": "/s19011.github.io/yubin/static/js/runtime-main.7f41ed4a.js",
+    "runtime-main.js.map": "/s19011.github.io/yubin/static/js/runtime-main.7f41ed4a.js.map",
+    "static/js/2.8b098dc3.chunk.js": "/s19011.github.io/yubin/static/js/2.8b098dc3.chunk.js",
+    "static/js/2.8b098dc3.chunk.js.map": "/s19011.github.io/yubin/static/js/2.8b098dc3.chunk.js.map",
+    "index.html": "/s19011.github.io/yubin/index.html",
+    "precache-manifest.b4875382d3598dec513ae8f5b9e172f4.js": "/s19011.github.io/yubin/precache-manifest.b4875382d3598dec513ae8f5b9e172f4.js",
+    "service-worker.js": "/s19011.github.io/yubin/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/s19011.github.io/yubin/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.8b098dc3.chunk.js.LICENSE.txt": "/s19011.github.io/yubin/static/js/2.8b098dc3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7f41ed4a.js",
+    "static/js/2.8b098dc3.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.20bedc20.chunk.js"
+  ]
+}
